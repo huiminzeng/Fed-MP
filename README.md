@@ -25,7 +25,7 @@ Please consider citing the following paper if you use our methods in your resear
 For our running environment see requirements.txt
 
 ## Datasets
-- The datasets used in our work are all publicly available. They could be found and download from their official websites. After downloading, change the `--data_dir` argument in `train.py` and `eval.py`.
+- The datasets used in our work are all publicly available. They could be found and downloaded from their official websites. After downloading, change the `--data_dir` argument in `train.py` and `eval.py` to your own paths.
 
 - Example folder structure
 ```
